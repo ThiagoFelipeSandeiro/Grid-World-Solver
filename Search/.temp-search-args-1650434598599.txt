@@ -1,0 +1,6 @@
+-Dfile.encoding=Cp1252
+-classpath
+"C:\\Users\\jmsps\\eclipse-workspace\\MazeSolver\\bin"
+COS30019.Search
+mazeData
+DFS

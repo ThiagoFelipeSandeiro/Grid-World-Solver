@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>console</headerType>
+  <jar>C:\Users\usr66\OneDrive - Swinburne University\2022\Semester One\COS30019 - Introduction to Artificial Intelligence\Assignment 1 – Tree Based Search - Due  23 Apr by 1630\search-run.jar</jar>
+  <outfile>C:\Users\usr66\OneDrive - Swinburne University\2022\Semester One\COS30019 - Introduction to Artificial Intelligence\Assignment 1 – Tree Based Search - Due  23 Apr by 1630\search.exe</outfile>
+  <errTitle>Java not found!</errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon></icon>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.8.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+</launch4jConfig>
